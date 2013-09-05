@@ -2,6 +2,10 @@ p {
 	color: red;
 }
 
+p {
+	color: blue;
+}
+
 img { 
 width: 100px;
 }
